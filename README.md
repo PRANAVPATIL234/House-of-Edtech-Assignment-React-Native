@@ -75,3 +75,7 @@ This project uses the following key packages:
     npx expo start
     ```
 4.  Scan the QR code with the **Expo Go** app on your iOS or Android device.
+5.  **EAS Build APK :**
+    ```bash
+    https://expo.dev/artifacts/eas/gPMYbMjReKSBN4JYCMxck4.apk
+    This APK Link Expire in 30 Days
